@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <!--
 **GreenHapi/GreenHapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
